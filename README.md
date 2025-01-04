@@ -3,8 +3,7 @@
 BillEase is  Restaurant Bill Management System with Revenue Reporting is a comprehensive solution designed to streamline restaurant operations while ensuring seamless synchronization across all users in real time. This system caters to restaurant managers, kitchen staff, and service teams, providing efficient tools for managing daily tasks. 
 
 ## Demo
-
-Check out the [live demo]([https://unknownlemon03.github.io/loading/?data=%7B%22sec_count%22%3A30%2C%22req%22%3A%22https%3A%2F%2Flemon-ebook-recommendation.onrender.com%22%2C%22redirect%22%3A%22https%3A%2F%2Fresonant-gaufre-74cbd6.netlify.app%22%2C%22message%22%3A%22%F0%9F%99%83%20Please%20wait%20til%20project%20is%20loading%20(i'm%20using%20free%20services%20so%20it%20takes%20time)%22%7D](https://unknownlemon03.github.io/loading/?data=%7B%22sec_count%22%3A30%2C%22req%22%3A%22https%3A%2F%2Fresturant-management-api.onrender.com%22%2C%22redirect%22%3A%22https%3A%2F%2Fresonant-gaufre-74cbd6.netlify.app%22%2C%22message%22%3A%22%F0%9F%99%83%20Please%20wait%20til%20project%20is%20loading%20(i'm%20using%20free%20services%20so%20it%20takes%20time)%22%7D)) of this project. 
+Check out the [live demo](https://unknownlemon03.github.io/loading/?data=%7B%22sec_count%22%3A30%2C%22req%22%3A%22https%3A%2F%2Fresturant-management-api.onrender.com%22%2C%22redirect%22%3A%22https%3A%2F%2Fresonant-gaufre-74cbd6.netlify.app%22%2C%22message%22%3A%22%F0%9F%99%83%20Please%20wait%20til%20project%20is%20loading%20(i'm%20using%20free%20services%20so%20it%20takes%20time)%22%7D) of this project. 
 
 
 ## Tech Stack
